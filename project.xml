@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project Version="1.5" name="ASICA" appid="1.5" uuid="e6e5c34d-097a-4047-8920-8d403509ab0c">
+    <corpus name="Plantillas">
+        <description></description>
+        <session name="QL1"/>
+        <session name="QL2"/>
+    </corpus>
+    <corpus name="Basal">
+        <description></description>
+        <session name="QL1 (1)"/>
+    </corpus>
+</project>
