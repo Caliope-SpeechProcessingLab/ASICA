@@ -325,7 +325,7 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w>caˈrofa</w>
+                    <w>kaˈrofa</w>
                     <sb>
                         <ph indexes="0" scType="O"/>
                         <ph indexes="1" scType="N" hiatus="true"/>
@@ -437,16 +437,17 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w>paβ̞aɾino</w>
+                    <w>paβ̞aˈɾino</w>
                     <sb>
                         <ph indexes="0" scType="O"/>
                         <ph indexes="1" scType="N" hiatus="true"/>
                         <ph indexes="2 3" scType="O"/>
                         <ph indexes="4" scType="N" hiatus="true"/>
-                        <ph indexes="5" scType="O"/>
-                        <ph indexes="6" scType="N" hiatus="true"/>
-                        <ph indexes="7" scType="O"/>
-                        <ph indexes="8" scType="N" hiatus="true"/>
+                        <ph indexes="5" scType="SS"/>
+                        <ph indexes="6" scType="O"/>
+                        <ph indexes="7" scType="N" hiatus="true"/>
+                        <ph indexes="8" scType="O"/>
+                        <ph indexes="9" scType="N" hiatus="true"/>
                     </sb>
                 </pg>
             </ipaTier>
@@ -872,16 +873,17 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w>foβ̞oʝena</w>
+                    <w>foβ̞oˈʝena</w>
                     <sb>
                         <ph indexes="0" scType="O"/>
                         <ph indexes="1" scType="N" hiatus="true"/>
                         <ph indexes="2 3" scType="O"/>
                         <ph indexes="4" scType="N" hiatus="true"/>
-                        <ph indexes="5" scType="O"/>
-                        <ph indexes="6" scType="N" hiatus="true"/>
-                        <ph indexes="7" scType="O"/>
-                        <ph indexes="8" scType="N" hiatus="true"/>
+                        <ph indexes="5" scType="SS"/>
+                        <ph indexes="6" scType="O"/>
+                        <ph indexes="7" scType="N" hiatus="true"/>
+                        <ph indexes="8" scType="O"/>
+                        <ph indexes="9" scType="N" hiatus="true"/>
                     </sb>
                 </pg>
             </ipaTier>
@@ -1145,16 +1147,17 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w>kaβ̞aʝete</w>
+                    <w>kaβ̞aˈʝete</w>
                     <sb>
                         <ph indexes="0" scType="O"/>
                         <ph indexes="1" scType="N" hiatus="true"/>
                         <ph indexes="2 3" scType="O"/>
                         <ph indexes="4" scType="N" hiatus="true"/>
-                        <ph indexes="5" scType="O"/>
-                        <ph indexes="6" scType="N" hiatus="true"/>
-                        <ph indexes="7" scType="O"/>
-                        <ph indexes="8" scType="N" hiatus="true"/>
+                        <ph indexes="5" scType="SS"/>
+                        <ph indexes="6" scType="O"/>
+                        <ph indexes="7" scType="N" hiatus="true"/>
+                        <ph indexes="8" scType="O"/>
+                        <ph indexes="9" scType="N" hiatus="true"/>
                     </sb>
                 </pg>
             </ipaTier>
@@ -1228,13 +1231,13 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w>kaˈromað̞o</w>
+                    <w>karoˈmað̞o</w>
                     <sb>
                         <ph indexes="0" scType="O"/>
                         <ph indexes="1" scType="N" hiatus="true"/>
-                        <ph indexes="2" scType="SS"/>
-                        <ph indexes="3" scType="O"/>
-                        <ph indexes="4" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="O"/>
+                        <ph indexes="3" scType="N" hiatus="true"/>
+                        <ph indexes="4" scType="SS"/>
                         <ph indexes="5" scType="O"/>
                         <ph indexes="6" scType="N" hiatus="true"/>
                         <ph indexes="7 8" scType="O"/>
@@ -1348,16 +1351,17 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w>θafeˈuð̞i</w>
+                    <w>θafeˈluð̞i</w>
                     <sb>
                         <ph indexes="0" scType="O"/>
                         <ph indexes="1" scType="N" hiatus="true"/>
                         <ph indexes="2" scType="O"/>
                         <ph indexes="3" scType="N" hiatus="true"/>
                         <ph indexes="4" scType="SS"/>
-                        <ph indexes="5" scType="N" hiatus="true"/>
-                        <ph indexes="6 7" scType="O"/>
-                        <ph indexes="8" scType="N" hiatus="true"/>
+                        <ph indexes="5" scType="O"/>
+                        <ph indexes="6" scType="N" hiatus="true"/>
+                        <ph indexes="7 8" scType="O"/>
+                        <ph indexes="9" scType="N" hiatus="true"/>
                     </sb>
                 </pg>
             </ipaTier>
@@ -1368,7 +1372,7 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="7">
+                <ag length="8">
                     <phomap value="0 -1"/>
                     <phomap value="1 -1"/>
                     <phomap value="2 -1"/>
@@ -1376,6 +1380,7 @@
                     <phomap value="4 -1"/>
                     <phomap value="5 -1"/>
                     <phomap value="6 -1"/>
+                    <phomap value="7 -1"/>
                 </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
@@ -1854,13 +1859,13 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w>taleˈɣ̞o</w>
+                    <w>taˈleɣ̞o</w>
                     <sb>
                         <ph indexes="0" scType="O"/>
                         <ph indexes="1" scType="N" hiatus="true"/>
-                        <ph indexes="2" scType="O"/>
-                        <ph indexes="3" scType="N" hiatus="true"/>
-                        <ph indexes="4" scType="SS"/>
+                        <ph indexes="2" scType="SS"/>
+                        <ph indexes="3" scType="O"/>
+                        <ph indexes="4" scType="N" hiatus="true"/>
                         <ph indexes="5 6" scType="O"/>
                         <ph indexes="7" scType="N" hiatus="true"/>
                     </sb>

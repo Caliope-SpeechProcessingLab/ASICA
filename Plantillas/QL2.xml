@@ -25,11 +25,11 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w>soˈʝa</w>
+                    <w>ˈsoʝa</w>
                     <sb>
-                        <ph indexes="0" scType="O"/>
-                        <ph indexes="1" scType="N" hiatus="true"/>
-                        <ph indexes="2" scType="SS"/>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2" scType="N" hiatus="true"/>
                         <ph indexes="3" scType="O"/>
                         <ph indexes="4" scType="N" hiatus="true"/>
                     </sb>
@@ -61,13 +61,13 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w>ˈβ̞eta</w>
+                    <w>ˈbeta</w>
                     <sb>
                         <ph indexes="0" scType="SS"/>
-                        <ph indexes="1 2" scType="O"/>
-                        <ph indexes="3" scType="N" hiatus="true"/>
-                        <ph indexes="4" scType="O"/>
-                        <ph indexes="5" scType="N" hiatus="true"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2" scType="N" hiatus="true"/>
+                        <ph indexes="3" scType="O"/>
+                        <ph indexes="4" scType="N" hiatus="true"/>
                     </sb>
                 </pg>
             </ipaTier>
@@ -92,7 +92,7 @@
         <u id="5e9d9632-a2df-47a8-89c9-bc7d3b89950f" excludeFromSearches="false">
             <orthography>
                 <g>
-                    <w>satelite</w>
+                    <w>satélite</w>
                 </g>
             </orthography>
             <ipaTier form="model">
@@ -333,11 +333,11 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w>biˈɣ̞a</w>
+                    <w>ˈbiɣ̞a</w>
                     <sb>
-                        <ph indexes="0" scType="O"/>
-                        <ph indexes="1" scType="N" hiatus="true"/>
-                        <ph indexes="2" scType="SS"/>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2" scType="N" hiatus="true"/>
                         <ph indexes="3 4" scType="O"/>
                         <ph indexes="5" scType="N" hiatus="true"/>
                     </sb>
@@ -721,7 +721,7 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w>maniˈβ̞exa</w>
+                    <w>maniˈβ̞eθa</w>
                     <sb>
                         <ph indexes="0" scType="O"/>
                         <ph indexes="1" scType="N" hiatus="true"/>
@@ -1308,7 +1308,7 @@
         <u id="2bd9e23c-713f-483b-9c71-906db4f46b13" excludeFromSearches="false">
             <orthography>
                 <g>
-                    <w>Mañada</w>
+                    <w>Nifubami</w>
                 </g>
             </orthography>
             <ipaTier form="model">
@@ -1499,7 +1499,7 @@
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">38</notes>
-            <flatTier tierName="Type">PA</flatTier>
+            <flatTier tierName="Type">NPu</flatTier>
         </u>
         <u id="5770b883-688a-4a06-8941-e6a914ab27d0" excludeFromSearches="false">
             <orthography>
