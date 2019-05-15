@@ -22,8 +22,15 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>alˈdoa</w>
+                    <sb>
+                        <ph indexes="0" scType="N" hiatus="true"/>
+                        <ph indexes="1" scType="C"/>
+                        <ph indexes="2" scType="SS"/>
+                        <ph indexes="3" scType="O"/>
+                        <ph indexes="4" scType="N" hiatus="true"/>
+                        <ph indexes="5" scType="N" hiatus="true"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -33,7 +40,13 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="5">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">1</notes>
@@ -46,8 +59,16 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>ˈgɾenxa</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2" scType="O"/>
+                        <ph indexes="3" scType="N" hiatus="true"/>
+                        <ph indexes="4" scType="C"/>
+                        <ph indexes="5" scType="O"/>
+                        <ph indexes="6" scType="N" hiatus="true"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -57,7 +78,14 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="6">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                    <phomap value="5 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">2</notes>
@@ -70,8 +98,14 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>xuθja</w>
+                    <sb>
+                        <ph indexes="0" scType="O"/>
+                        <ph indexes="1" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="O"/>
+                        <ph indexes="3" scType="O"/>
+                        <ph indexes="4" scType="N" hiatus="false"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -81,7 +115,13 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="5">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">3</notes>
@@ -94,8 +134,16 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>iˈneɣ̞ma</w>
+                    <sb>
+                        <ph indexes="0" scType="N" hiatus="true"/>
+                        <ph indexes="1" scType="SS"/>
+                        <ph indexes="2" scType="O"/>
+                        <ph indexes="3" scType="N" hiatus="true"/>
+                        <ph indexes="4 5" scType="C"/>
+                        <ph indexes="6" scType="O"/>
+                        <ph indexes="7" scType="N" hiatus="true"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -105,7 +153,14 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="6">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                    <phomap value="5 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">4</notes>
@@ -118,8 +173,16 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>oˈβ̞ɾeð̞o</w>
+                    <sb>
+                        <ph indexes="0" scType="N" hiatus="true"/>
+                        <ph indexes="1" scType="SS"/>
+                        <ph indexes="2 3" scType="O"/>
+                        <ph indexes="4" scType="O"/>
+                        <ph indexes="5" scType="N" hiatus="true"/>
+                        <ph indexes="6 7" scType="O"/>
+                        <ph indexes="8" scType="N" hiatus="true"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -129,7 +192,14 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="6">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                    <phomap value="5 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">5</notes>
@@ -142,8 +212,14 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>ˈlefa</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2" scType="N" hiatus="true"/>
+                        <ph indexes="3" scType="O"/>
+                        <ph indexes="4" scType="N" hiatus="true"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -153,7 +229,12 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="4">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">6</notes>
@@ -166,8 +247,15 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>ˈfweko</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2" scType="O"/>
+                        <ph indexes="3" scType="N" hiatus="true"/>
+                        <ph indexes="4" scType="O"/>
+                        <ph indexes="5" scType="N" hiatus="true"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -177,7 +265,13 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="5">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">7</notes>
@@ -190,8 +284,16 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>meˈʝafa</w>
+                    <sb>
+                        <ph indexes="0" scType="O"/>
+                        <ph indexes="1" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="SS"/>
+                        <ph indexes="3" scType="O"/>
+                        <ph indexes="4" scType="N" hiatus="true"/>
+                        <ph indexes="5" scType="O"/>
+                        <ph indexes="6" scType="N" hiatus="true"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -201,7 +303,14 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="6">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                    <phomap value="5 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">8</notes>
@@ -214,8 +323,16 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>meˈneɾa</w>
+                    <sb>
+                        <ph indexes="0" scType="O"/>
+                        <ph indexes="1" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="SS"/>
+                        <ph indexes="3" scType="O"/>
+                        <ph indexes="4" scType="N" hiatus="true"/>
+                        <ph indexes="5" scType="O"/>
+                        <ph indexes="6" scType="N" hiatus="true"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -225,7 +342,14 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="6">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                    <phomap value="5 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">9</notes>
@@ -238,8 +362,14 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>ˈmeno</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2" scType="N" hiatus="true"/>
+                        <ph indexes="3" scType="O"/>
+                        <ph indexes="4" scType="N" hiatus="true"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -249,7 +379,12 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="4">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">10</notes>
@@ -262,8 +397,15 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>ˈnonte</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2" scType="N" hiatus="true"/>
+                        <ph indexes="3" scType="C"/>
+                        <ph indexes="4" scType="O"/>
+                        <ph indexes="5" scType="N" hiatus="true"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -273,7 +415,13 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="5">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">11</notes>
@@ -286,8 +434,16 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>oˈθensa</w>
+                    <sb>
+                        <ph indexes="0" scType="N" hiatus="true"/>
+                        <ph indexes="1" scType="SS"/>
+                        <ph indexes="2" scType="O"/>
+                        <ph indexes="3" scType="N" hiatus="true"/>
+                        <ph indexes="4" scType="C"/>
+                        <ph indexes="5" scType="O"/>
+                        <ph indexes="6" scType="N" hiatus="true"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -297,7 +453,14 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="6">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                    <phomap value="5 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">12</notes>
@@ -310,8 +473,14 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>ˈeɾθe</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="C"/>
+                        <ph indexes="3" scType="O"/>
+                        <ph indexes="4" scType="N" hiatus="true"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -321,7 +490,12 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="4">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">13</notes>
@@ -334,8 +508,14 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>eˈtal</w>
+                    <sb>
+                        <ph indexes="0" scType="N" hiatus="true"/>
+                        <ph indexes="1" scType="SS"/>
+                        <ph indexes="2" scType="O"/>
+                        <ph indexes="3" scType="N" hiatus="true"/>
+                        <ph indexes="4" scType="C"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -345,7 +525,12 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="4">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">14</notes>
@@ -358,8 +543,14 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>ˈoɾð̞o</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="C"/>
+                        <ph indexes="3 4" scType="O"/>
+                        <ph indexes="5" scType="N" hiatus="true"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -369,7 +560,12 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="4">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">15</notes>
@@ -382,8 +578,13 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>ˈuʧo</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="O"/>
+                        <ph indexes="3" scType="N" hiatus="true"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -393,7 +594,11 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="3">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">16</notes>
@@ -406,8 +611,16 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>ˈpjeð̞ɾa</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2" scType="O"/>
+                        <ph indexes="3" scType="N" hiatus="false"/>
+                        <ph indexes="4 5" scType="O"/>
+                        <ph indexes="6" scType="O"/>
+                        <ph indexes="7" scType="N" hiatus="true"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -417,7 +630,14 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="6">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                    <phomap value="5 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">17. Dar como válido ziegra</notes>
@@ -430,8 +650,16 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>inˈθjel</w>
+                    <sb>
+                        <ph indexes="0" scType="N" hiatus="true"/>
+                        <ph indexes="1" scType="C"/>
+                        <ph indexes="2" scType="SS"/>
+                        <ph indexes="3" scType="O"/>
+                        <ph indexes="4" scType="O"/>
+                        <ph indexes="5" scType="N" hiatus="false"/>
+                        <ph indexes="6" scType="C"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -441,7 +669,14 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="6">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                    <phomap value="5 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">18</notes>
@@ -454,8 +689,15 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>roˈmal</w>
+                    <sb>
+                        <ph indexes="0" scType="O"/>
+                        <ph indexes="1" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="SS"/>
+                        <ph indexes="3" scType="O"/>
+                        <ph indexes="4" scType="N" hiatus="true"/>
+                        <ph indexes="5" scType="C"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -465,7 +707,13 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="5">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">19</notes>
@@ -478,8 +726,16 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>lelˈtað̞</w>
+                    <sb>
+                        <ph indexes="0" scType="O"/>
+                        <ph indexes="1" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="C"/>
+                        <ph indexes="3" scType="SS"/>
+                        <ph indexes="4" scType="O"/>
+                        <ph indexes="5" scType="N" hiatus="true"/>
+                        <ph indexes="6 7" scType="C"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -489,7 +745,14 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="6">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                    <phomap value="5 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">20</notes>
@@ -502,8 +765,18 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>efeˈlante</w>
+                    <sb>
+                        <ph indexes="0" scType="N" hiatus="true"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2" scType="N" hiatus="true"/>
+                        <ph indexes="3" scType="SS"/>
+                        <ph indexes="4" scType="O"/>
+                        <ph indexes="5" scType="N" hiatus="true"/>
+                        <ph indexes="6" scType="C"/>
+                        <ph indexes="7" scType="O"/>
+                        <ph indexes="8" scType="N" hiatus="true"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -513,7 +786,16 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="8">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                    <phomap value="5 -1"/>
+                    <phomap value="6 -1"/>
+                    <phomap value="7 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">21</notes>
@@ -526,8 +808,19 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>panˈdiente</w>
+                    <sb>
+                        <ph indexes="0" scType="O"/>
+                        <ph indexes="1" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="C"/>
+                        <ph indexes="3" scType="SS"/>
+                        <ph indexes="4" scType="O"/>
+                        <ph indexes="5" scType="N" hiatus="true"/>
+                        <ph indexes="6" scType="N" hiatus="true"/>
+                        <ph indexes="7" scType="C"/>
+                        <ph indexes="8" scType="O"/>
+                        <ph indexes="9" scType="N" hiatus="true"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -537,7 +830,17 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="9">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                    <phomap value="5 -1"/>
+                    <phomap value="6 -1"/>
+                    <phomap value="7 -1"/>
+                    <phomap value="8 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">22</notes>
@@ -550,8 +853,16 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>peˈɾaθe</w>
+                    <sb>
+                        <ph indexes="0" scType="O"/>
+                        <ph indexes="1" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="SS"/>
+                        <ph indexes="3" scType="O"/>
+                        <ph indexes="4" scType="N" hiatus="true"/>
+                        <ph indexes="5" scType="O"/>
+                        <ph indexes="6" scType="N" hiatus="true"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -561,7 +872,14 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="6">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                    <phomap value="5 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">23</notes>
@@ -574,8 +892,16 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>peˈtaɾa</w>
+                    <sb>
+                        <ph indexes="0" scType="O"/>
+                        <ph indexes="1" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="SS"/>
+                        <ph indexes="3" scType="O"/>
+                        <ph indexes="4" scType="N" hiatus="true"/>
+                        <ph indexes="5" scType="O"/>
+                        <ph indexes="6" scType="N" hiatus="true"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -585,7 +911,14 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="6">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                    <phomap value="5 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">24</notes>
@@ -598,8 +931,15 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>ˈsoɣ̞ma</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2" scType="N" hiatus="true"/>
+                        <ph indexes="3 4" scType="C"/>
+                        <ph indexes="5" scType="O"/>
+                        <ph indexes="6" scType="N" hiatus="true"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -609,7 +949,13 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="5">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">25</notes>
@@ -622,8 +968,18 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>tɾoˈβ̞lema</w>
+                    <sb>
+                        <ph indexes="0" scType="O"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2" scType="N" hiatus="true"/>
+                        <ph indexes="3" scType="SS"/>
+                        <ph indexes="4 5" scType="O"/>
+                        <ph indexes="6" scType="O"/>
+                        <ph indexes="7" scType="N" hiatus="true"/>
+                        <ph indexes="8" scType="O"/>
+                        <ph indexes="9" scType="N" hiatus="true"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -633,7 +989,16 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="8">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                    <phomap value="5 -1"/>
+                    <phomap value="6 -1"/>
+                    <phomap value="7 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">26</notes>
@@ -646,8 +1011,16 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>eˈɣ̞lesa</w>
+                    <sb>
+                        <ph indexes="0" scType="N" hiatus="true"/>
+                        <ph indexes="1" scType="SS"/>
+                        <ph indexes="2 3" scType="O"/>
+                        <ph indexes="4" scType="O"/>
+                        <ph indexes="5" scType="N" hiatus="true"/>
+                        <ph indexes="6" scType="O"/>
+                        <ph indexes="7" scType="N" hiatus="true"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -657,7 +1030,14 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="6">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                    <phomap value="5 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">27</notes>
@@ -670,8 +1050,15 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>koˈfal</w>
+                    <sb>
+                        <ph indexes="0" scType="O"/>
+                        <ph indexes="1" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="SS"/>
+                        <ph indexes="3" scType="O"/>
+                        <ph indexes="4" scType="N" hiatus="true"/>
+                        <ph indexes="5" scType="C"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -681,7 +1068,13 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="5">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">28</notes>
@@ -694,8 +1087,17 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>alˈxalde</w>
+                    <sb>
+                        <ph indexes="0" scType="N" hiatus="true"/>
+                        <ph indexes="1" scType="C"/>
+                        <ph indexes="2" scType="SS"/>
+                        <ph indexes="3" scType="O"/>
+                        <ph indexes="4" scType="N" hiatus="true"/>
+                        <ph indexes="5" scType="C"/>
+                        <ph indexes="6" scType="O"/>
+                        <ph indexes="7" scType="N" hiatus="true"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -705,7 +1107,15 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="7">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                    <phomap value="5 -1"/>
+                    <phomap value="6 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">29</notes>
@@ -718,8 +1128,15 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>ˈfeɾsa</w>
+                    <sb>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2" scType="N" hiatus="true"/>
+                        <ph indexes="3" scType="C"/>
+                        <ph indexes="4" scType="O"/>
+                        <ph indexes="5" scType="N" hiatus="true"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -729,7 +1146,13 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="5">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">30</notes>
@@ -742,8 +1165,16 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>koˈxaɾe</w>
+                    <sb>
+                        <ph indexes="0" scType="O"/>
+                        <ph indexes="1" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="SS"/>
+                        <ph indexes="3" scType="O"/>
+                        <ph indexes="4" scType="N" hiatus="true"/>
+                        <ph indexes="5" scType="O"/>
+                        <ph indexes="6" scType="N" hiatus="true"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -753,7 +1184,14 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="6">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                    <phomap value="5 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">31</notes>
@@ -766,8 +1204,17 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>beɾˈfama</w>
+                    <sb>
+                        <ph indexes="0" scType="O"/>
+                        <ph indexes="1" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="C"/>
+                        <ph indexes="3" scType="SS"/>
+                        <ph indexes="4" scType="O"/>
+                        <ph indexes="5" scType="N" hiatus="true"/>
+                        <ph indexes="6" scType="O"/>
+                        <ph indexes="7" scType="N" hiatus="true"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -777,7 +1224,15 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="7">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                    <phomap value="5 -1"/>
+                    <phomap value="6 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">32</notes>
@@ -790,8 +1245,17 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>binˈʧeð̞a</w>
+                    <sb>
+                        <ph indexes="0" scType="O"/>
+                        <ph indexes="1" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="C"/>
+                        <ph indexes="3" scType="SS"/>
+                        <ph indexes="4" scType="O"/>
+                        <ph indexes="5" scType="N" hiatus="true"/>
+                        <ph indexes="6 7" scType="O"/>
+                        <ph indexes="8" scType="N" hiatus="true"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -801,7 +1265,15 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="7">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                    <phomap value="5 -1"/>
+                    <phomap value="6 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">33</notes>
@@ -814,8 +1286,18 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>bolanˈtað̞</w>
+                    <sb>
+                        <ph indexes="0" scType="O"/>
+                        <ph indexes="1" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="O"/>
+                        <ph indexes="3" scType="N" hiatus="true"/>
+                        <ph indexes="4" scType="C"/>
+                        <ph indexes="5" scType="SS"/>
+                        <ph indexes="6" scType="O"/>
+                        <ph indexes="7" scType="N" hiatus="true"/>
+                        <ph indexes="8 9" scType="C"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -825,7 +1307,16 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="8">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                    <phomap value="5 -1"/>
+                    <phomap value="6 -1"/>
+                    <phomap value="7 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">34</notes>
@@ -838,8 +1329,18 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>dɾisˈtema</w>
+                    <sb>
+                        <ph indexes="0" scType="O"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2" scType="N" hiatus="true"/>
+                        <ph indexes="3" scType="C"/>
+                        <ph indexes="4" scType="SS"/>
+                        <ph indexes="5" scType="O"/>
+                        <ph indexes="6" scType="N" hiatus="true"/>
+                        <ph indexes="7" scType="O"/>
+                        <ph indexes="8" scType="N" hiatus="true"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -849,7 +1350,16 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="8">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                    <phomap value="5 -1"/>
+                    <phomap value="6 -1"/>
+                    <phomap value="7 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">35. Suena como "dizema"</notes>
@@ -862,8 +1372,16 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>enˈxono</w>
+                    <sb>
+                        <ph indexes="0" scType="N" hiatus="true"/>
+                        <ph indexes="1" scType="C"/>
+                        <ph indexes="2" scType="SS"/>
+                        <ph indexes="3" scType="O"/>
+                        <ph indexes="4" scType="N" hiatus="true"/>
+                        <ph indexes="5" scType="O"/>
+                        <ph indexes="6" scType="N" hiatus="true"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -873,7 +1391,14 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="6">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                    <phomap value="5 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">36</notes>
@@ -886,8 +1411,16 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>alˈkolo</w>
+                    <sb>
+                        <ph indexes="0" scType="N" hiatus="true"/>
+                        <ph indexes="1" scType="C"/>
+                        <ph indexes="2" scType="SS"/>
+                        <ph indexes="3" scType="O"/>
+                        <ph indexes="4" scType="N" hiatus="true"/>
+                        <ph indexes="5" scType="O"/>
+                        <ph indexes="6" scType="N" hiatus="true"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -897,7 +1430,14 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="6">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                    <phomap value="5 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">37</notes>
@@ -910,8 +1450,16 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>esˈpiθa</w>
+                    <sb>
+                        <ph indexes="0" scType="N" hiatus="true"/>
+                        <ph indexes="1" scType="C"/>
+                        <ph indexes="2" scType="SS"/>
+                        <ph indexes="3" scType="O"/>
+                        <ph indexes="4" scType="N" hiatus="true"/>
+                        <ph indexes="5" scType="O"/>
+                        <ph indexes="6" scType="N" hiatus="true"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -921,7 +1469,14 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="6">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                    <phomap value="5 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">38</notes>
@@ -934,8 +1489,15 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>daˈloɾ</w>
+                    <sb>
+                        <ph indexes="0" scType="O"/>
+                        <ph indexes="1" scType="N" hiatus="true"/>
+                        <ph indexes="2" scType="SS"/>
+                        <ph indexes="3" scType="O"/>
+                        <ph indexes="4" scType="N" hiatus="true"/>
+                        <ph indexes="5" scType="C"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -945,7 +1507,13 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="5">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">39</notes>
@@ -958,8 +1526,17 @@
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w></w>
-                    <sb/>
+                    <w>planˈtel</w>
+                    <sb>
+                        <ph indexes="0" scType="O"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2" scType="N" hiatus="true"/>
+                        <ph indexes="3" scType="C"/>
+                        <ph indexes="4" scType="SS"/>
+                        <ph indexes="5" scType="O"/>
+                        <ph indexes="6" scType="N" hiatus="true"/>
+                        <ph indexes="7" scType="C"/>
+                    </sb>
                 </pg>
             </ipaTier>
             <ipaTier form="actual">
@@ -969,7 +1546,15 @@
                 </pg>
             </ipaTier>
             <alignment type="segmental">
-                <ag length="0"/>
+                <ag length="7">
+                    <phomap value="0 -1"/>
+                    <phomap value="1 -1"/>
+                    <phomap value="2 -1"/>
+                    <phomap value="3 -1"/>
+                    <phomap value="4 -1"/>
+                    <phomap value="5 -1"/>
+                    <phomap value="6 -1"/>
+                </ag>
             </alignment>
             <segment startTime="0.0" duration="0.0" unitType="ms"/>
             <notes tierName="Notes">40</notes>
