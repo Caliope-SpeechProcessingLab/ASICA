@@ -712,12 +712,12 @@
         <u id="5c786b00-9727-4dae-881b-0ef5e7ec25de" excludeFromSearches="false">
             <orthography>
                 <g>
-                    <w>Cano</w>
+                    <w>Caño</w>
                 </g>
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w>ˈkano</w>
+                    <w>ˈkaɲo</w>
                     <sb>
                         <ph indexes="0" scType="SS"/>
                         <ph indexes="1" scType="O"/>
@@ -1652,16 +1652,16 @@
         <u id="12bf2c09-159a-4353-b9b3-23ffcf639a5a" excludeFromSearches="false">
             <orthography>
                 <g>
-                    <w>Numeso</w>
+                    <w>Númeso</w>
                 </g>
             </orthography>
             <ipaTier form="model">
                 <pg>
-                    <w>nuˈmeso</w>
+                    <w>ˈnumeso</w>
                     <sb>
-                        <ph indexes="0" scType="O"/>
-                        <ph indexes="1" scType="N" hiatus="true"/>
-                        <ph indexes="2" scType="SS"/>
+                        <ph indexes="0" scType="SS"/>
+                        <ph indexes="1" scType="O"/>
+                        <ph indexes="2" scType="N" hiatus="true"/>
                         <ph indexes="3" scType="O"/>
                         <ph indexes="4" scType="N" hiatus="true"/>
                         <ph indexes="5" scType="O"/>
