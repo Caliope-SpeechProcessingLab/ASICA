@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<project Version="1.5" name="WavTextGridKaldi" appid="1.5" uuid="9e836013-a476-4fff-9ff0-7acd29ac852d">
+    <corpus name="basal">
+        <description></description>
+    </corpus>
+</project>
